@@ -1,6 +1,5 @@
 package com.tnsif.Day13;
 
-
 public class UsingRunnable implements Runnable {
 	Thread thread;
 	int high, low;
