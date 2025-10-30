@@ -1,5 +1,5 @@
 //Program to demonstrates how Vector provides thread safety
-package com.tnnsif.Day16;
+package com.tnsif.Day16;
 
 import java.util.Vector;
 

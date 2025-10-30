@@ -1,5 +1,5 @@
 //Program to demonstrate Vector Class
-package com.tnnsif.Day16;
+package com.tnsif.Day16;
 
 import java.util.Iterator;
 import java.util.Vector;
